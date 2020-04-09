@@ -7,7 +7,9 @@
 <body>
 
   <h1>Cloud-Php-Ex000</h1>
-  <p>Chạy thử 1.</p>
+  <p>Nguyễn Hải Bằng</p>
+  <p>2172225</p>
+  <p>Thực Hành Công Nghệ Thông Tin 3</p>
 
 </body>
 </html>
